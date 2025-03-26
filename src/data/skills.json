@@ -1,0 +1,31 @@
+
+[
+  {
+    "title": "HTML",
+    "imageSrc": "https://res.cloudinary.com/dx0dgujbj/image/upload/v1712378374/Portfolio/skills/html_mtvekr.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "https://res.cloudinary.com/dx0dgujbj/image/upload/v1712378374/Portfolio/skills/css_dwovji.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "https://res.cloudinary.com/dx0dgujbj/image/upload/v1712378375/Portfolio/skills/react_yqnl4j.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "https://res.cloudinary.com/dx0dgujbj/image/upload/v1712378375/Portfolio/skills/node_cbe2w0.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "https://res.cloudinary.com/dx0dgujbj/image/upload/v1712378773/Portfolio/skills/JS_iulfj9.webp"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "https://res.cloudinary.com/dx0dgujbj/image/upload/v1712378374/Portfolio/skills/mongodb_rc0zx8.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "https://res.cloudinary.com/dx0dgujbj/image/upload/v1712378374/Portfolio/skills/figma_dodbxt.png"
+  }
+]

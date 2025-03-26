@@ -1,0 +1,14 @@
+[
+  {
+    "role": "Research Intern",
+    "organisation": "Indira Gandhi Delhi Technical University for Women",
+    "startDate": "June 2023",
+    "endDate": "July 2023",
+    "experiences": [
+      "Journal Paper: Innovations in Footstep Detection: A Mel-Frequency Cepstral Coefficients Approach (Under Submission)",
+      "The research focuses on diverse audio datasets, particularly highlighting footstep sounds extracted using MFCC."
+     
+    ],
+    "imageSrc": "https://res.cloudinary.com/dx0dgujbj/image/upload/v1712379751/Portfolio/History/igdtuw_logo_atsdaj.png"
+  }
+]
